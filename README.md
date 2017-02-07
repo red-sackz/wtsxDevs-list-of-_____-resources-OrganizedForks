@@ -1,5 +1,8 @@
 # wtsxDev's(KaliTut's) List of ____ resources.
 
+## All of the following are from wtsxDev(KaliTut)'s GitHub
+https://github.com/wtsxDev
+
 ### Machine Learning For Cyber Security
 https://github.com/red-sackz/Machine-Learning-for-Cyber-Security
 
